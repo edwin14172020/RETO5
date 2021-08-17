@@ -76,7 +76,8 @@ public class busqueda extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("CONSTRUCTORA SADY");
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\edwin\\OneDrive\\Desktop\\edwin\\reto4net\\src\\main\\java\\logo\\misiontic2022.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\edwin\\OneDrive\\Desktop\\misiontic2022.png")); // NOI18N
+        jLabel1.setPreferredSize(new java.awt.Dimension(800, 100));
         jLabel1.setVerifyInputWhenFocusTarget(false);
 
         jButton1.setText("Compras De Lider");
@@ -134,7 +135,7 @@ public class busqueda extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\edwin\\OneDrive\\Desktop\\edwin\\reto4net\\src\\main\\java\\logo\\Logo_U.T.P.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\edwin\\Downloads\\Logo_U.T.P.png")); // NOI18N
         jLabel2.setVerifyInputWhenFocusTarget(false);
 
         jMenu2.setText("SALIR");
