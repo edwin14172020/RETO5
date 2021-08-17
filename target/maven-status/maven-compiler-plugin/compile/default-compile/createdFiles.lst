@@ -1,0 +1,10 @@
+com\example\controller\ReportesController.class
+com\example\model\dao\DeudasPorProyectoDao.class
+com\example\model\vo\DeudasPorProyectoVo.class
+com\example\model\dao\ProyectoBancoDao.class
+com\example\util\JDBCUtilities.class
+com\example\App.class
+com\example\view\ReportesView.class
+com\example\model\dao\ComprasDeLiderDao.class
+com\example\model\vo\ProyectoBancoVo.class
+com\example\model\vo\ComprasDeLiderVo.class
